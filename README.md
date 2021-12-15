@@ -24,4 +24,4 @@ I just use jquery and bootstrap. It's still simple, but I wanna use some React a
 
 ### 06:What did you learn? What was the most challenging part?
 
-It's deploying as using firebase because I've never use it before.
+It's deploying as using Netlify because I've never use it before.
